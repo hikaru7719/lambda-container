@@ -1,0 +1,8 @@
+{
+  "name": "lambda-container",
+  "description": "execute AWS Lambda with docker container",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hikaru Miyahara",
+  "license": "MIT"
+}
